@@ -2061,25 +2061,25 @@ var links = [
     },
 ];
 var socials = [
-    {
-        label: "Telegram",
-        icon: "TelegramIcon",
-        items: [
-            {
-                label: "English",
-                href: "https://t.me/VikingSwapOfficial",
-            },
-            {
-                label: "Announcements",
-                href: "https://t.me/vikingswapannouncements",
-            },
-        ],
-    },
-    {
-        label: "Twitter",
-        icon: "TwitterIcon",
-        href: "https://twitter.com/vikingswap",
-    },
+//     {
+//         label: "Telegram",
+//         icon: "TelegramIcon",
+//         items: [
+//             {
+//                 label: "English",
+//                 href: "https://t.me/VikingSwapOfficial",
+//             },
+//             {
+//                 label: "Announcements",
+//                 href: "https://t.me/vikingswapannouncements",
+//             },
+//         ],
+//     },
+//     {
+//         label: "Twitter",
+//         icon: "TwitterIcon",
+//         href: "https://twitter.com/vikingswap",
+//     },
 ];
 var MENU_HEIGHT = 64;
 var MENU_ENTRY_HEIGHT = 48;
